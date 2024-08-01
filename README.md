@@ -11,23 +11,29 @@ While Jupyter runs code in many programming languages, Python is a requirement f
 
 **Installing**
 Steps to Installing Jupyter Notebook:
+
 Step 1: Open a Command Prompt (Windows) or Terminal (macOS/Linux):
 •	On Windows, press Win + R, type cmd, and press Enter.
 •	On macOS/Linux, press Cmd + Space, type Terminal, and press Enter.
+
 Step 2: Install Jupyter using pip:
 In the Command Prompt or Terminal, type the following command and press Enter:
 bashCopy code
 pip install jupyter
 This command uses pip, the Python package installer, to download and install Jupyter Notebook and its dependencies.
+
 Step 3: Verify Jupyter Installation:
 After the installation is complete, you can check if Jupyter Notebook is installed correctly. In the Command Prompt or Terminal, type:
 bashCopy code
 jupyter notebook
 This command will launch the Jupyter Notebook in your default web browser.
+
 Step 4: Create a Jupyter Notebook:
 Once Jupyter Notebook is running, you can create a new notebook by clicking on the “New” button and selecting “Python 3” or another available kernel.
+
 Step 5: Write and Execute Code:
 In the notebook, you can write and execute code in individual cells. To execute a cell, press Shift + Enter.
+
 Step 6: Save and Quit:
 Save your work by clicking the “Save” button or using Ctrl + S (Windows/Linux) or Cmd + S. To exit Jupyter Notebook, close the browser tab and stop the running Jupyter process in the Command Prompt or Terminal by pressing Ctrl + C.
 
