@@ -1,6 +1,3 @@
-# data1202_assignment5
-
-
 ●Project Title
 ○Short description
 ●Getting Started
